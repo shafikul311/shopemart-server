@@ -1,1 +1,2 @@
-"# shopemart-server" 
+"# shope-mart-server" 
+Node, Express, Mongodb
